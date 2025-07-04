@@ -1,0 +1,6 @@
+discord.py
+discord
+openai
+yt-dlp
+spotipy
+python-dotenv
